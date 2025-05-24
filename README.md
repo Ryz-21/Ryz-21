@@ -40,7 +40,7 @@
 
 ---
 
-### 📁 Featured Projects *(you can link your repos here)*
+### 📁 Featured Projects
 
 - 🔧 [Inventory System in C#](#)
 - 📊 [Student Management API using Spring Boot](#)

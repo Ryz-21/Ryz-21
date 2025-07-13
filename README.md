@@ -43,9 +43,8 @@
 ### 📁 Featured Projects
 
 - 🔧 [Inventory System in C#](#)
-- 📊 [Student Management API using Spring Boot](#)
-- 🧪 [Python Scripts for Automation](#)
-
+- 📊 [Student Management API using Spring Boot](https://github.com/Ryz-21/PROYECTO.git)
+- 🧪 🧪 [Python Scripts for Automation](https://github.com/Ryz-21/Scripts-Python)
 ---
 
 ### 📈 GitHub Stats

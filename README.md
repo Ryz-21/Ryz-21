@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently in the **5th cycle** of a technical programming degree
-- 🧠 I’m learning **backend development** with C#, Java, and Python
-- 💡 Passionate about clean code, scalable architecture, and continuous learning
-- 📍 Based in **Peru**, open to global opportunities
+- 🔭 I’m currently in the **5th cycle** of a technical programming degree  
+- 🧠 I’m learning **backend development** with C#, Java, and Python  
+- 💡 Passionate about clean code, scalable architecture, and continuous learning  
+- 📍 Based in **Peru**, open to global opportunities  
 
 ---
 
@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -34,17 +36,20 @@
 
 ### 📚 Currently Learning
 
-- 🌐 REST APIs with Spring Boot and ASP.NET Core
-- ☁️ Basics of cloud deployment (e.g., Azure, AWS)
-- 🗃️ Database design & optimization
+- 🌐 REST APIs with Spring Boot and ASP.NET Core  
+- ⚛️ Frontend frameworks: **React & Angular**  
+- ☁️ Basics of cloud deployment (Azure, AWS)  
+- 🗃️ Database design & optimization  
 
 ---
 
 ### 📁 Featured Projects
 
-- 🔧 [Inventory System in C#](#)
-- 📊 [Student Management API using Spring Boot](https://github.com/Ryz-21/PROYECTO.git)
-- 🧪 [Python Scripts for Automation](https://github.com/Ryz-21/Scripts-Python)
+- 🔧 [Inventory System in C#](#)  
+- 📊 [Student Management API using Spring Boot](https://github.com/Ryz-21/PROYECTO.git)  
+- ⚛️ [React + Spring Boot Web App](#) *(in progress)*  
+- 🧪 [Python Scripts for Automation](https://github.com/Ryz-21/Scripts-Python)  
+
 ---
 
 ### 📈 GitHub Stats
@@ -57,8 +62,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: Ryz21.lv04@gmail.com 
-
+- 📧 Email: **Ryz21.lv04@gmail.com**  
 
 ---
 

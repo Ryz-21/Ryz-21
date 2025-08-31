@@ -45,9 +45,9 @@
 
 ### 📁 Featured Projects
 
-- 🔧 [Inventory System in C#](#)  
+- 🔧 [Inventory System in C#](#)"in progrees"  
 - 📊 [Student Management API using Spring Boot](https://github.com/Ryz-21/PROYECTO.git)  
-- ⚛️ [React + Spring Boot Web App](#) *(in progress)*  
+- ⚛️ [React + Spring Boot Web App](https://github.com/Ryz-21/PROYECTO.git)
 - 🧪 [Python Scripts for Automation](https://github.com/Ryz-21/Scripts-Python)  
 
 ---
